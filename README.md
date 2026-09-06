@@ -1307,5 +1307,3 @@ PriceComparePro searches across **50+ Indian e-commerce retailers** including:
 ---
 
 **🎉 Happy Shopping! Find the best deals with PriceComparePro! 🛍️**
-
-*Built with ❤️ by the PriceComparePro Team*
