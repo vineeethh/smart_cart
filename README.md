@@ -1236,8 +1236,8 @@ SOFTWARE.
 
 ### **Developers**
 - **Manideep Reddy P** - [@Manideep3183](https://github.com/Manideep3183)
+- **Vuppala Vineeth** - [@vineeethh](https://github.com/vineeethh)
 - **Rohan Pagadala**
-- **Vineeth V**
 
 ### **Technologies & Services**
 - **[SerpAPI](https://serpapi.com/)** - Google Shopping API access
