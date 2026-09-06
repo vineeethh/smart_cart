@@ -1,6 +1,6 @@
-# 🛒 PriceComparePro - Intelligent E-Commerce Price Comparison Platform
+# 🛒 Smart Cart - Intelligent E-Commerce Price Comparison Platform
 
-**PriceComparePro** is a modern full-stack web application that helps users discover the best deals across 50+ Indian e-commerce retailers. Built with **React + TypeScript + Vite** frontend and **Python FastAPI** backend, it provides real-time product price comparison with intelligent scoring algorithms, Firebase authentication, and comprehensive user analytics.
+**Smart Cart** is a modern full-stack web application that helps users discover the best deals across 50+ Indian e-commerce retailers. Built with **React + TypeScript + Vite** frontend and **Python FastAPI** backend, it provides real-time product price comparison with intelligent scoring algorithms, Firebase authentication, and comprehensive user analytics.
 
 ---
 
