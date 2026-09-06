@@ -9,7 +9,6 @@
 - **Frontend Application**: [https://smartcart-app.vercel.app](https://smartcart-app.vercel.app)
 - **Backend API**: [https://price-compare-pro-1.onrender.com](https://price-compare-pro-1.onrender.com)
 - **API Documentation**: [https://price-compare-pro-1.onrender.com/docs](https://price-compare-pro-1.onrender.com/docs)
-- **GitHub Repository**: [https://github.com/Manideep3183/Price-Compare-Pro](https://github.com/Manideep3183/Price-Compare-Pro)
 
 ---
 
